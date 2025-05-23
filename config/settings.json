@@ -1,0 +1,19 @@
+{
+  "theme": "default",
+  "view_mode": "detail",
+  "show_hidden": false,
+  "show_preview": true,
+  "window_geometry": "1200x800",
+  "last_directory": "C:\\Users\\karee",
+  "auto_save": true,
+  "confirm_delete": true,
+  "show_file_extensions": true,
+  "date_format": "%Y-%m-%d %H:%M:%S",
+  "file_associations": {},
+  "recent_locations": [],
+  "bookmarks": [],
+  "toolbar_visible": true,
+  "statusbar_visible": true,
+  "sidebar_width": 200,
+  "preview_panel_height": 200
+}
